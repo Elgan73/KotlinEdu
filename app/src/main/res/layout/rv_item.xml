@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="@dimen/marginCard"
+    app:cardCornerRadius="@dimen/corner_radius"
+    android:elevation="@dimen/elevation_card"
+    android:backgroundTint="@color/back_card_note"
+    >
+    
+    <LinearLayout
+        android:id="@+id/cardLiner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:layout_margin="@dimen/margin_title"
+            android:text="@string/hint_title"/>
+
+        <TextView
+            android:id="@+id/body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.AppCompat"
+            android:layout_margin="@dimen/card_text_margin"
+            android:text="@string/text_text"/>
+
+
+    </LinearLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>
