@@ -6,11 +6,9 @@
     android:layout_margin="@dimen/marginCard"
     app:cardCornerRadius="@dimen/corner_radius"
     android:elevation="@dimen/elevation_card"
-    android:backgroundTint="@color/back_card_note"
     >
     
     <LinearLayout
-        android:id="@+id/cardLiner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
