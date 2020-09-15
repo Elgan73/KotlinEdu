@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginCard">5dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+    <dimen name="elevation_card">5dp</dimen>
+    <dimen name="margin_title">4dp</dimen>
+    <dimen name="card_text_margin">5dp</dimen>
+</resources>

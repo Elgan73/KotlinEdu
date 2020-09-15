@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">KotlinEdu</string>
+    <string name="hint_title">My first note</string>
+    <string name="myNotes">My Notes</string>
+    <string name="text_text">Kotlin is short but very powerful</string>
 </resources>
