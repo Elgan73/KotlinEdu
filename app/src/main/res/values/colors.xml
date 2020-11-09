@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimary">#3ABAF4</color>
+    <color name="colorPrimaryDark">#1B84B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="back_card_note">#96FFF5</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="PINK">#DA96FF</color>
+    <color name="YELLOW">#D9E659</color>
+    <color name="GREY">#858585</color>
+    <color name="GREEN">#46EF71</color>
+    <color name="VIOLET">#8C5BAF</color>
+    <color name="BLUE">#2F69FA</color>
 </resources>

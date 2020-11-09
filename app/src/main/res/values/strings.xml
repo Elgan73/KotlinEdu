@@ -3,4 +3,5 @@
     <string name="hint_title">My first note</string>
     <string name="myNotes">My Notes</string>
     <string name="text_text">Kotlin is short but very powerful</string>
+    <string name="new_note">Новая зметка</string>
 </resources>
